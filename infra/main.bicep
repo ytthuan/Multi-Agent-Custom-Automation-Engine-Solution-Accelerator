@@ -61,10 +61,10 @@ param resourceSize {
 }
 param capacity int = 140
 
-var modelVersion = '2024-08-06'
+var modelVersion = '2024-07-18'
 var aiServicesName = '${solutionPrefix}-aiservices'
 var deploymentType = 'GlobalStandard'
-var gptModelVersion = 'gpt-4o'
+var gptModelVersion = 'gpt-4o-mini'
 var appVersion = 'fnd01'
 var resgistryName = 'biabcontainerreg'
 var dockerRegistryUrl = 'https://${resgistryName}.azurecr.io'
