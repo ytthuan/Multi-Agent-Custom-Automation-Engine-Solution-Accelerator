@@ -4,7 +4,7 @@ This index provides a guide to understanding how messages flow through the Multi
 
 ## 📚 Documentation Overview
 
-We've created two comprehensive guides to help you understand and customize the system:
+We've created comprehensive guides to help you understand and customize the system:
 
 ### 1. 📖 [Message Workflow Guide](./MESSAGE_WORKFLOW_GUIDE.md)
 **Best for**: Understanding how the system works
@@ -52,15 +52,41 @@ A hands-on guide with quick, practical examples for customizing the system. Perf
 
 ---
 
+### 3. 🎨 [Message Flow Diagrams](./MESSAGE_FLOW_DIAGRAMS.md)
+**Best for**: Visual learners who prefer diagrams
+
+A visual guide with ASCII diagrams illustrating how messages flow through the system at different levels.
+
+**What you'll learn:**
+- Visual representation of the complete message flow
+- Phase-by-phase diagrams (6 detailed phases)
+- Component interaction diagrams
+- Agent collaboration patterns
+- Data transformations from input to output
+- File structure navigation map
+- Customization points map
+
+**Length**: ~30 pages of visual diagrams
+
+**When to use this guide:**
+- You prefer visual learning
+- You need to explain the system to others visually
+- You want to quickly understand component interactions
+- You're looking for specific file locations
+
+---
+
 ## 🗺️ Quick Navigation
 
 ### For First-Time Users
 
-**Start here** → Read [Message Workflow Guide](./MESSAGE_WORKFLOW_GUIDE.md) sections:
-1. System Architecture Overview
-2. Complete Message Workflow
-3. Key Components Explained
-4. Step-by-Step Message Journey
+**Start here** → 
+1. Quick overview: [Message Flow Diagrams](./MESSAGE_FLOW_DIAGRAMS.md) - Quick Overview Diagram
+2. Detailed reading: [Message Workflow Guide](./MESSAGE_WORKFLOW_GUIDE.md) sections:
+   - System Architecture Overview
+   - Complete Message Workflow
+   - Key Components Explained
+   - Step-by-Step Message Journey
 
 **Total time**: 30-45 minutes
 
@@ -80,10 +106,11 @@ A hands-on guide with quick, practical examples for customizing the system. Perf
 
 ### For Developers Building Custom Features
 
-**Read both guides**:
-1. [Message Workflow Guide](./MESSAGE_WORKFLOW_GUIDE.md) - Understand the architecture
-2. [Customization Quick Start](./CUSTOMIZATION_QUICK_START.md) - See implementation patterns
-3. Refer back as needed when building
+**Read all guides**:
+1. [Message Flow Diagrams](./MESSAGE_FLOW_DIAGRAMS.md) - Visualize the architecture
+2. [Message Workflow Guide](./MESSAGE_WORKFLOW_GUIDE.md) - Understand the architecture
+3. [Customization Quick Start](./CUSTOMIZATION_QUICK_START.md) - See implementation patterns
+4. Refer back as needed when building
 
 ---
 
