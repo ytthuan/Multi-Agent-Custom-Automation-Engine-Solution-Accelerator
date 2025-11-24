@@ -154,6 +154,23 @@ By using the *Multi-Agent Custom Automation Engine* solution accelerator, users 
 Supporting documentation
 </h2>
 
+### Understanding and Customizing the System
+
+📖 **New to the system or want to customize it?** Check out our comprehensive guides:
+
+* **[Workflow and Customization Index](./docs/WORKFLOW_AND_CUSTOMIZATION_INDEX.md)** - Start here for an overview of available documentation
+* **[Message Workflow Guide](./docs/MESSAGE_WORKFLOW_GUIDE.md)** - Detailed explanation of how messages flow through the system
+* **[Customization Quick Start](./docs/CUSTOMIZATION_QUICK_START.md)** - Practical examples for customizing agents and teams
+
+These guides are designed for users with limited coding experience and provide step-by-step instructions for:
+- Understanding how the system processes messages
+- Creating custom agent teams for your use case
+- Modifying agent behavior and personalities
+- Adding custom tools and capabilities
+- Troubleshooting common issues
+
+<br/>
+
 ### Security guidelines
 
 This template uses Azure Key Vault to store all connections to communicate between resources.
